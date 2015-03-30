@@ -1,0 +1,14 @@
+{
+    "name": "djuki/laravel-options",
+    "description": "Laravel package to store options in one db table field serialized, but still use like a array with options",
+    "authors": [
+        {
+            "name": "Ivan Djurdjevac",
+            "email": "djurdjevac@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "minimum-stability": "stable"
+}
