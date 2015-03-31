@@ -12,7 +12,7 @@
     },
   "autoload": {
     "classmap" : [
-      "src/facade/"
+      "facade/"
     ],
     "psr-4": {
       "Djuki\\Options\\": "src/"
